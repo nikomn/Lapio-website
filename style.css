@@ -13,4 +13,33 @@ li {
   color: red;
 }
 
+#container-text {
+  color: black;
+}
+
+.first-box-container {
+  width: 200px;
+  height: 100px;
+  top: 40pxt;
+  background-color: red;
+  position: absolute;
+}
+
+.second-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  left: 250px;
+  top: 40pxt;
+  position: absolute;
+}
+
+.third-box-container {
+  width: 200px;
+  height: 100px;
+  left: 500px;
+  top: 40pxt;
+  background-color: green;
+  position: absolute;
+}
 
