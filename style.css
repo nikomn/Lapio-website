@@ -14,10 +14,15 @@ li {
 }
 
 #container-text {
-  color: black;
+  color: blue;
 }
 
 .first-box-container {
+  text-align: center;
+  border-style: solid;
+  border-width: 10px;
+  border-color: green;
+  text-transform: uppercase;
   width: 200px;
   height: 100px;
   top: 40pxt;
@@ -26,6 +31,11 @@ li {
 }
 
 .second-box-container {
+  text-align: center;
+  border-style: solid;
+  border-width: 10px;
+  border-color: red;
+  text-transform: uppercase;
   width: 200px;
   height: 100px;
   background-color: yellow;
@@ -35,6 +45,11 @@ li {
 }
 
 .third-box-container {
+  text-align: center;
+  border-style: solid;
+  border-width: 10px;
+  border-color: yellow;
+  text-transform: uppercase;
   width: 200px;
   height: 100px;
   left: 500px;
