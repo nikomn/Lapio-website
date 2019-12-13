@@ -1,0 +1,64 @@
+h1 {
+  color: blue;
+}
+h2, h3, p {
+  color: brown;
+}
+
+li {
+  color: pink;
+}
+
+#punainen-kohta {
+  color: red;
+}
+
+#container-text {
+  color: blue;
+}
+
+.first-box-container {
+  text-align: center;
+  border-style: solid;
+  border-width: 10px;
+  border-color: green;
+  text-transform: uppercase;
+  width: 200px;
+  height: 100px;
+  top: 40pxt;
+  background-color: red;
+  position: absolute;
+}
+
+.second-box-container {
+  text-align: center;
+  border-style: solid;
+  border-width: 10px;
+  border-color: red;
+  text-transform: uppercase;
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  left: 250px;
+  top: 40pxt;
+  position: absolute;
+}
+
+.third-box-container {
+  text-align: center;
+  border-style: solid;
+  border-width: 10px;
+  border-color: yellow;
+  text-transform: uppercase;
+  width: 200px;
+  height: 100px;
+  left: 500px;
+  top: 40pxt;
+  background-color: green;
+  position: absolute;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 50em;
+}
